@@ -20,7 +20,7 @@ This application is developed using AWS CDK in TypeScript.
 * Download the MP4 file and play the video.
 
 ### Resulting Model Response Video
-https://github.com/user-attachments/assets/a551df21-d9f8-48e1-bbd1-53caa03225e4
+https://github.com/user-attachments/assets/c5cfb2ed-830d-4e79-9093-226f0d372255
 * If that video link doesn't play, download the original Luma Ray 2 video file in [MP4](output.mp4) format under files.
 
 ## References
